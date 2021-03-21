@@ -23,7 +23,7 @@ Please read the LICENSE for the licensing of Hacking-GF.
 
 |Available Pages|Mobile Support|
 |:---|:---:|
-|Grand Fantasia|0|
+|Grand Fantasia|1|
 
 ## Tested on
 
@@ -31,7 +31,7 @@ Please read the LICENSE for the licensing of Hacking-GF.
 
 # Requirements
 
-##Windows
+## Windows
 
 - python3.5
 - XAMPP
@@ -41,21 +41,27 @@ Please read the LICENSE for the licensing of Hacking-GF.
 
 # Installation and Configuration
 
-##Windows
+## Windows
 **1. Download the repository**
 ```cmd
-$ git clone https://github.com/
-$ cd WinPhiser
+$ git clone https://github.com/shakarr/GF-Phishing.git
+$ cd GF-Phishing
 ```
 **NOTE**
 you need to have "git" installed to use "git clone". Here [how to install git in windows](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 
 **2. Download Chromedriver**
 
-Go to the official [google](https://sites.google.com/a/chromium.org/chromedriver/downloads) page and download it according to your google version and unzip it in the WinPhiser folder
+Go to the official [google](https://sites.google.com/a/chromium.org/chromedriver/downloads) page and download it according to your google version and unzip it in the GF-Phishing folder
 
 **3. Download ngrok**
 
-Go to the official [ngrok](https://ngrok.com/download) page and download it and unzip it in the WinPhiser folder
+Go to the official [ngrok](https://ngrok.com/download) page and download it and unzip it in the GF-Phishing folder
 
 **4. Install XAMPP**
+
+Go to the official [xampp](https://www.apachefriends.org/es/index.html) page and follow the instalaltion instructions
+
+**NOTE**
+
+Is important that the istallation folder be C:\
