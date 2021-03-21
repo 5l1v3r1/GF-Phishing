@@ -58,9 +58,13 @@ Go to the official [google](https://sites.google.com/a/chromium.org/chromedriver
 
 Go to the official [ngrok](https://ngrok.com/download) page and download it and unzip it in the GF-Phishing folder
 
-**4. Install XAMPP**
+**4. Install python3.5**
 
-Go to the official [xampp](https://www.apachefriends.org/es/index.html) page and follow the instalaltion instructions
+Go to the official [python](https://www.python.org/downloads/release/python-350/) page, download the installer and follow the installation instructions
+
+**5. Install XAMPP**
+
+Go to the official [xampp](https://www.apachefriends.org/es/index.html) page, download the installer and follow the installation instructions
 
 **NOTE**
 
