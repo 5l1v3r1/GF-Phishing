@@ -28,6 +28,7 @@ Please read the LICENSE for the licensing of Hacking-GF.
 ## Tested on
 
 * Windows 10 
+* Windows 7
 
 # Requirements
 
@@ -46,6 +47,7 @@ Please read the LICENSE for the licensing of Hacking-GF.
 ```cmd
 $ git clone https://github.com/shakarr/GF-Phishing.git
 $ cd GF-Phishing
+$ pip3 install -r requirements.txt
 ```
 **NOTE**
 you need to have "git" installed to use "git clone". Here [how to install git in windows](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
@@ -68,4 +70,4 @@ Go to the official [xampp](https://www.apachefriends.org/es/index.html) page, do
 
 **NOTE**
 
-Is important that the istallation folder be C:\
+Is important that the installation folder be C:\
