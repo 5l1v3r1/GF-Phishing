@@ -49,8 +49,9 @@ $ git clone https://github.com/shakarr/GF-Phishing.git
 $ cd GF-Phishing
 $ pip3 install -r requirements.txt
 ```
-**NOTE**
-you need to have "git" installed to use "git clone". Here [how to install git in windows](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
+
+> **NOTE**
+> you need to have "git" installed to use "git clone". Here [how to install git in windows](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 
 **2. Download Chromedriver**
 
@@ -68,6 +69,5 @@ Go to the official [python](https://www.python.org/downloads/release/python-350/
 
 Go to the official [xampp](https://www.apachefriends.org/es/index.html) page, download the installer and follow the installation instructions
 
-**NOTE**
-
-Is important that the installation folder be C:\
+> **NOTE**
+> Is important that the installation folder be C:\
