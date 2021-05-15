@@ -9,7 +9,7 @@ Written by: Ridel Saavedra Flores - GitHub: [@shakarr](https://github.com/shakar
 
 DISCLAIMER: This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
 
-Please read the LICENSE for the licensing of Hacking-GF.
+Please read the LICENSE the Hacking-GF.
 
 # Features
 
